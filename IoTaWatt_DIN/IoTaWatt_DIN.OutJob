@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Hvamp_32.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=STD
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -280,15 +280,15 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=LayerStackReportView|Units=Imperial|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\HVAMP_32\PCB\Hvamp_32.PCBDOC
 
 [PublishSettings]
-OutputFilePath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\HVAMP_32\PCB\Project Outputs for HVAMP_32\Fastino.PDF
+OutputFilePath2=Project Outputs for IoTaWatt_DIN\HVAMP_32.PDF
 ReleaseManaged2=0
-OutputBasePath2=Project Outputs for HVAMP_32\
+OutputBasePath2=Project Outputs for IoTaWatt_DIN\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=HVAMP_32
+OutputFileName2=IoTaWatt_DIN
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -307,9 +307,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\HVAMP_32\PCB\Project Outputs for HVAMP_32\
+OutputFilePath3=Project Outputs for IoTaWatt_DIN\
 ReleaseManaged3=0
-OutputBasePath3=Project Outputs for HVAMP_32\
+OutputBasePath3=Project Outputs for IoTaWatt_DIN\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -322,7 +322,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Hvamp_32
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -359,9 +359,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\HVAMP_32\PCB\Project Outputs for HVAMP_32\Fastino.PDF
+RelativeOutputPath2=Project Outputs for IoTaWatt_DIN\HVAMP_32.PDF
 OpenOutputs2=1
-RelativeOutputPath3=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\HVAMP_32\PCB\Project Outputs for HVAMP_32\
+RelativeOutputPath3=Project Outputs for IoTaWatt_DIN\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
